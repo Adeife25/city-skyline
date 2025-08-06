@@ -1,6 +1,3 @@
-ChatGPT said:
-Here’s a clean and beginner-friendly README.md for your City Skyline project:
-
 🌆 City Skyline
 A beginner web project showcasing a city skyline using basic HTML and CSS. This is part of my responsive web design practice.
 
@@ -29,5 +26,6 @@ Creating a consistent theme or atmosphere through color and layout
 
 🚀 Live Preview
 👉 Click here to view City Skyline
+https://adeife25.github.io/city-skyline/
 (Replace with your actual GitHub Pages link)
 
