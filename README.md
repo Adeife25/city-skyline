@@ -27,5 +27,3 @@ Creating a consistent theme or atmosphere through color and layout
 🚀 Live Preview
 👉 Click here to view City Skyline
 https://adeife25.github.io/city-skyline/
-(Replace with your actual GitHub Pages link)
-
